@@ -32,7 +32,12 @@ This Gradio application allows users to select from a range of popular datasets 
 
 ## Demo
  
+ ![Screenshot 2025-05-23 015717](https://github.com/user-attachments/assets/e679fb9c-fb4e-44de-be15-d3afbcfb6ea8)
+
  
+![Screenshot 2025-05-23 015826](https://github.com/user-attachments/assets/e9f8e8c3-7cc9-450c-b4b4-a0b2bdf83858)
+
+![Screenshot 2025-05-23 015902](https://github.com/user-attachments/assets/ba54ec2c-dc4d-4606-b89e-6ee1030c605b)
 
 ## Prerequisites
 
